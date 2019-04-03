@@ -1,0 +1,25 @@
+{
+  "name": "project_udemy",
+  "version": "1.0.0",
+  "description": "complete node js guide",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmpreFranco/Node_js.git"
+  },
+  "author": "ompre franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmpreFranco/Node_js/issues"
+  },
+  "homepage": "https://github.com/OmpreFranco/Node_js#readme"
+}
